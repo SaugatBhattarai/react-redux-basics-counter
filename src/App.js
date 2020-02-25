@@ -1,3 +1,9 @@
+/**
+ *
+ * This is from tutorial youtube.com/watch?v=CVpUuw9XSjY
+ * Title: Redux for Beginners | React Redux Tutorial
+ * Youtube Channel: Dev Ed
+ */
 import React from "react";
 import { useSelector, useDispatch } from "react-redux";
 import { increment, decrement } from "./actions";
